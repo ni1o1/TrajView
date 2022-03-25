@@ -1,4 +1,4 @@
-# 轨迹可视化系统 [![pages-build-deployment](https://github.com/ni1o1/TrajView/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/ni1o1/BusGPSVis/actions/workflows/pages/pages-build-deployment)
+# 轨迹可视化系统 [![pages-build-deployment](https://github.com/ni1o1/TrajView/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ni1o1/TrajView/actions/workflows/pages/pages-build-deployment)
 
 动态可视化轨迹数据，点击这个[链接](https://ni1o1.github.io/TrajView/build/)即可访问
 
