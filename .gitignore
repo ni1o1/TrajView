@@ -2,9 +2,3 @@
 build/.DS_Store
 .DS_Store
 node_modules
-src
-public
-package.json
-package-lock.json
-config-overrides.js
-yarn.lock
